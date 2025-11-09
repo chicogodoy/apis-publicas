@@ -1,6 +1,6 @@
 # src/main.py
-from src.api_senado import APISenado
-from src.processador_dados import ProcessadorDadosSenado
+from api_senado import APISenado
+from processador_dados import ProcessadorDadosSenado
 import pandas as pd
 
 def main():
